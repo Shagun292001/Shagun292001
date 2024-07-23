@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shagun Sharma</h1>
 <h3 align="center">A passionate data science and data analyst enthusiast with expertise in NLP, SQL, and machine learning.</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Hz4Cyb3TuEYannh7eI3jkm9LPsdop7FIxQ&s">
+
 - 🌱 I’m currently learning **machine learning techniques, deep learning, computer vision, and NLP.**
 
 - 💬 Ask me about **NLP, machine learning, and data analytics.**
